@@ -37,7 +37,8 @@ const Footer = () => {
             </div>
         </div>
         <div className='footer-container-bottom'>
-            
+            <hr></hr><br></br>
+            <p>Privacy Policy   |  Terms & Conditions </p>
         </div>
     </div>
   )
